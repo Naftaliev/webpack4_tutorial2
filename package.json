@@ -1,0 +1,23 @@
+{
+  "name": "webpack_tutorial2",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=3On5Z0gjf4U&list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naftaliev/webpack4_tutorial2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naftaliev/webpack4_tutorial2/issues"
+  },
+  "homepage": "https://github.com/Naftaliev/webpack4_tutorial2#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
